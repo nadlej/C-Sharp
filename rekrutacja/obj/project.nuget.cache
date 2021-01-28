@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rWxCZFGNxG5oiltuYWjllqWDNMVn+CwHK8gwV3M6QdFnriozFYvagZ/6FkirJke+mnnEuIhH/H8g9LVRK48eeA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nudle\\source\\repos\\rekrutacja\\rekrutacja.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nudle\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

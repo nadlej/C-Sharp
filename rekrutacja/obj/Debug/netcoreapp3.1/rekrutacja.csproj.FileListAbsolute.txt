@@ -1,0 +1,15 @@
+C:\Users\nudle\source\repos\rekrutacja\bin\Debug\netcoreapp3.1\rekrutacja.exe
+C:\Users\nudle\source\repos\rekrutacja\bin\Debug\netcoreapp3.1\rekrutacja.deps.json
+C:\Users\nudle\source\repos\rekrutacja\bin\Debug\netcoreapp3.1\rekrutacja.runtimeconfig.json
+C:\Users\nudle\source\repos\rekrutacja\bin\Debug\netcoreapp3.1\rekrutacja.runtimeconfig.dev.json
+C:\Users\nudle\source\repos\rekrutacja\bin\Debug\netcoreapp3.1\rekrutacja.dll
+C:\Users\nudle\source\repos\rekrutacja\bin\Debug\netcoreapp3.1\rekrutacja.pdb
+C:\Users\nudle\source\repos\rekrutacja\obj\Debug\netcoreapp3.1\rekrutacja.csprojAssemblyReference.cache
+C:\Users\nudle\source\repos\rekrutacja\obj\Debug\netcoreapp3.1\rekrutacja.AssemblyInfoInputs.cache
+C:\Users\nudle\source\repos\rekrutacja\obj\Debug\netcoreapp3.1\rekrutacja.AssemblyInfo.cs
+C:\Users\nudle\source\repos\rekrutacja\obj\Debug\netcoreapp3.1\rekrutacja.csproj.CoreCompileInputs.cache
+C:\Users\nudle\source\repos\rekrutacja\obj\Debug\netcoreapp3.1\rekrutacja.dll
+C:\Users\nudle\source\repos\rekrutacja\obj\Debug\netcoreapp3.1\rekrutacja.pdb
+C:\Users\nudle\source\repos\rekrutacja\obj\Debug\netcoreapp3.1\rekrutacja.genruntimeconfig.cache
+C:\Users\nudle\source\repos\rekrutacja\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\nudle\source\repos\rekrutacja\obj\Debug\netcoreapp3.1\rekrutacja.csproj.CopyComplete
